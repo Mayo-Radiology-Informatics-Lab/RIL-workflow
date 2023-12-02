@@ -1,0 +1,4 @@
+Stanford_Penn_Deidentifier @ git+https://github.com/MIDRC/Stanford_Penn_Deidentifier.git
+torch 
+torchvision 
+torchaudio
